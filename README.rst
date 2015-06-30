@@ -16,4 +16,4 @@ Installation
 
 * With Python and setuptools installed on your computer, `Download the ZIP file <https://github.com/AVGP/myopresenter4linux/archive/master.zip>`
 * Extract it somewhere on your computer
-* In a terminal, inside the extracted archive run `python setup.py install`
+* In a terminal, inside the extracted archive run ``python setup.py install``
